@@ -29,17 +29,17 @@
 <!-- github status  -->
 <div align="center">    
 <a href="https://github.com/At41rv1/At41rv1">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niansuh&theme=github_dark" style="height: 300px"/></div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=At41rv1&theme=github_dark" style="height: 300px"/></div>
 </a>  
 <div>
 <a href="https://github.com/At41rv1/At41rv1">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 <a href="https://github.com/At41rv1/At41rv1"> 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niansuh&theme=github_dark" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=At41rv1&theme=github_dark" width="45%" />
 </a>
  <a href="https://github.com/At41rv1/At41rv1">
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niansuh&theme=github_dark" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=At41rv1&theme=github_dark" width="45%" />
  </a>
 <a href="https://github.com/At41rv1/At41rv1">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niansuh&theme=github_dark" width="45%" />
@@ -53,10 +53,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">⚡Activity Graph:</h2>
 <a href="https://github.com/At41rv1/At41rv1">
-<img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Niansuh&area=true&hide_border=true&theme=github-compact" /></a>
+<img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=At41rv1&area=true&hide_border=true&theme=github-compact" /></a>
 <div align="center">  
 <a href="https://github.com/At41rv1/At41rv1">
-<img src="https://github-profile-trophy.vercel.app/?username=Niansuh&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"/></div>  
+<img src="https://github-profile-trophy.vercel.app/?username=At41rv1&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"/></div>  
 </a>
 <a href="https://github.com/At41rv1/At41rv1">
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
