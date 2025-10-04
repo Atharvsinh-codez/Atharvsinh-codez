@@ -10,4 +10,4 @@
 <div>
 
 <div align="center">
-  <img src="[[https://profile-counter.glitch.me/{At41rv1}/count.svg](https://avatars.githubusercontent.com/u/201381760?s=400&u=9efd1be6d842fc8097f5c15e998280ba88e51989&v=4)]()" />
+  <img src="[https://avatars.githubusercontent.com/u/201381760?s=400&u=9efd1be6d842fc8097f5c15e998280ba88e51989&v=4]" />
