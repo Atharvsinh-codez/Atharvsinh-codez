@@ -1,15 +1,8 @@
-Hi, My name is Atharvsinh Jadav👋
-====================================================================================================================================
+## ꕤ About Me
+- Hi, I'm **Vansh Nagar**
+- Check out my **[portfolio](https://athrix.me/)**  
+- Connect with me: **[madebyvansh@gmail.com](mailto:jadavatharv2010@gmail.com)**
 
-Full Stack Developer
---------------------
-
-I specialize in full-stack development with Next.js and Express.js, using TypeScript for type safety. I have experience with modern web technologies and tools.
-
-* 🌍  From Gujarat
-* 🖥️  See my portfolio at [athrix.me](http://athrix.me)
-* ✉️  You can contact me at [at41rv@gmail.com](mailto:at41rv@gmail.com)
-* ⚡  I’m looking to collaborate on Web Apps ,Tech Events
 
 ### Skills
 
@@ -23,6 +16,6 @@ I specialize in full-stack development with Next.js and Express.js, using TypeSc
 
 <p align="left"> <a href="https://www.github.com/Atharvsinh-codez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atharvsinh-jadav" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/athrix_codes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<b>My GitHub Stats</b>
+<b> GitHub Stats</b>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atharvsinh-codez&theme=dark)](https://git.io/streak-stats)
