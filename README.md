@@ -1,7 +1,7 @@
 ## ꕤ About Me
-- Hi, I'm **Vansh Nagar**
+- Hi, I'm **Atharv Jadav**
 - Check out my **[portfolio](https://athrix.me/)**  
-- Connect with me: **[madebyvansh@gmail.com](mailto:jadavatharv2010@gmail.com)**
+- Connect with me: **[jadavatharv2010@gmail.com](mailto:jadavatharv2010@gmail.com)**
 
 
 ### Skills
